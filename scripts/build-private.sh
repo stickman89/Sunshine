@@ -6,7 +6,7 @@ SUNSHINE_ASSETS_DIR="${SUNSHINE_ASSETS_DIR:-/etc/sunshine}"
 
 
 SUNSHINE_ROOT="${SUNSHINE_ROOT:-/root/sunshine}"
-SUNSHINE_TAG="${SUNSHINE_TAG:-master}"
+SUNSHINE_TAG="${SUNSHINE_TAG:-legacy_app-vars}"
 SUNSHINE_GIT_URL="${SUNSHINE_GIT_URL:-https://github.com/loki-47-6F-64/sunshine.git}"
 
 
