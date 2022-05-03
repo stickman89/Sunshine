@@ -41,6 +41,8 @@ RUN apt-get update -y && \
         libxrandr-dev \
         libxtst-dev \
         wget \
+        ffmpeg \
+        libswscale-dev \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
