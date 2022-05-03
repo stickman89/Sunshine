@@ -7,7 +7,7 @@ SUNSHINE_ASSETS_DIR="${SUNSHINE_ASSETS_DIR:-/etc/sunshine}"
 
 
 SUNSHINE_ROOT="${SUNSHINE_ROOT:-/root/sunshine}"
-SUNSHINE_TAG="${SUNSHINE_TAG:-master}"
+SUNSHINE_TAG="${SUNSHINE_TAG:-l10n_nightly}"
 SUNSHINE_GIT_URL="${SUNSHINE_GIT_URL:-https://github.com/sunshinestream/sunshine.git}"
 
 
